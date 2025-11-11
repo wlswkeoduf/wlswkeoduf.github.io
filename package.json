@@ -1,0 +1,12 @@
+{
+  "name": "korbill-main",
+  "version": "1.0.0",
+  "description": "Korbill 운영관리 메인 페이지",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
